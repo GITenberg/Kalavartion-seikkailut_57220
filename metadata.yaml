@@ -1,11 +1,14 @@
 _repo: Kalavartion-seikkailut_57220
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Tales of the fish patrol. Finnish
 contributor:
   translator:
     agent_name: Kare, Aito
     gutenberg_agent_id: '48225'
     url: http://www.gutenberg.org/2009/agents/48225
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57220#Kalavartion-seikkailut
 gutenberg_issued: '2018-05-27'
 gutenberg_type: Text
 identifiers:
